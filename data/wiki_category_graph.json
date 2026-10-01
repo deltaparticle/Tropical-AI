@@ -1,0 +1,2323 @@
+{
+ "root": "Artificial intelligence",
+ "nodes": [
+  "15.ai",
+  "1960s in artificial intelligence",
+  "1980s in artificial intelligence",
+  "1987 in artificial intelligence",
+  "1988 in artificial intelligence",
+  "1989 in artificial intelligence",
+  "1990 in artificial intelligence",
+  "1990s in artificial intelligence",
+  "1991 in artificial intelligence",
+  "1994 in artificial intelligence",
+  "1997 in artificial intelligence",
+  "1999 in artificial intelligence",
+  "2000s in artificial intelligence",
+  "2007 in artificial intelligence",
+  "2009 in artificial intelligence",
+  "2010 in artificial intelligence",
+  "2010s in artificial intelligence",
+  "2012 in artificial intelligence",
+  "2013 in artificial intelligence",
+  "2014 in artificial intelligence",
+  "2015 in artificial intelligence",
+  "2016 in artificial intelligence",
+  "2017 in artificial intelligence",
+  "2018 in artificial intelligence",
+  "2019 in artificial intelligence",
+  "2020 in artificial intelligence",
+  "2020s in artificial intelligence",
+  "2021 in artificial intelligence",
+  "2022 in artificial intelligence",
+  "2023 in artificial intelligence",
+  "2024 in artificial intelligence",
+  "2025 in artificial intelligence",
+  "2026 in artificial intelligence",
+  "2029 in artificial intelligence",
+  "2045 in artificial intelligence",
+  "3D imaging",
+  "AI art",
+  "AI legal scholars",
+  "AI risk",
+  "AI safety",
+  "AI safety advocates",
+  "AI safety scientists",
+  "AI software",
+  "AI supercomputers",
+  "AI: The Somnium Files",
+  "Affective computing",
+  "Agent communications languages",
+  "Agent-based model",
+  "Agent-based programming languages",
+  "Agent-based software",
+  "AlphaGo",
+  "Amazon Alexa",
+  "Ambient intelligence",
+  "Anthropic",
+  "Anthropic people",
+  "Anti-stuttering devices",
+  "Applications of artificial intelligence",
+  "Applications of computer vision",
+  "Applications of evolutionary algorithms",
+  "Applied data mining",
+  "Applied machine learning",
+  "Argument mapping",
+  "Argument technology",
+  "Artificial ecosystems",
+  "Artificial immune systems",
+  "Artificial intelligence",
+  "Artificial intelligence associations",
+  "Artificial intelligence by country",
+  "Artificial intelligence by decade",
+  "Artificial intelligence by year",
+  "Artificial intelligence characters in video games",
+  "Artificial intelligence companies",
+  "Artificial intelligence competitions",
+  "Artificial intelligence conferences",
+  "Artificial intelligence controversies",
+  "Artificial intelligence engineering",
+  "Artificial intelligence ethicists",
+  "Artificial intelligence in film and video",
+  "Artificial intelligence in music",
+  "Artificial intelligence industry in Canada",
+  "Artificial intelligence industry in China",
+  "Artificial intelligence industry in the United Kingdom",
+  "Artificial intelligence industry in the United States",
+  "Artificial intelligence journals",
+  "Artificial intelligence laboratories",
+  "Artificial intelligence organizations",
+  "Artificial intelligence papers",
+  "Artificial intelligence people",
+  "Artificial intelligence publications",
+  "Artificial intelligence researchers",
+  "Artificial intelligence researchers by nationality",
+  "Artificial intelligence stub templates",
+  "Artificial intelligence stubs",
+  "Artificial intelligence textbooks",
+  "Artificial life",
+  "Artificial life models",
+  "Artificial neural networks",
+  "Artificial pets",
+  "Artificial trees",
+  "Association for the Advancement of Artificial Intelligence",
+  "Augmented reality",
+  "Automated planning and scheduling",
+  "Automated reasoning",
+  "Automated theorem proving",
+  "Automatic identification and data capture",
+  "Automatic number plate recognition",
+  "Bayesian networks",
+  "Belief revision",
+  "Biometrics software",
+  "Blockchains",
+  "Blockmodeling",
+  "Bodies of knowledge",
+  "Botnets",
+  "Characters created using generative AI",
+  "ChatGPT",
+  "Chatbots",
+  "Classification algorithms",
+  "Cloud robotics",
+  "Cluster analysis",
+  "Code Lyoko",
+  "Code Lyoko episode redirects to lists",
+  "Code Lyoko images",
+  "Cognitive architecture",
+  "Cognitive inertia",
+  "Comics about artificial intelligence",
+  "Commercial computer vision systems",
+  "Computational learning theory",
+  "Computer Go",
+  "Computer board games competitions",
+  "Computer chess",
+  "Computer chess competitions",
+  "Computer draughts players",
+  "Computer poker players",
+  "Computer shogi",
+  "Computer vision",
+  "Computer vision research infrastructure",
+  "Computer vision researchers",
+  "Computer vision software",
+  "Concept mapping software",
+  "Corpus linguistics",
+  "Corpus linguistics stubs",
+  "Criticism of artificial intelligence",
+  "Critics of artificial intelligence",
+  "Cyberpunk films",
+  "DARPA Grand Challenge",
+  "Data mining and machine learning software",
+  "Datasets in computer vision",
+  "Datasets in machine learning",
+  "Deaths by American drone strikes",
+  "Deaths by Azerbaijani drone strikes",
+  "Deaths by French drone strikes",
+  "Deaths by Israeli drone strikes",
+  "Deaths by Malian drone strikes",
+  "Deaths by Russian drone strikes",
+  "Deaths by Saudi Arabian drone strikes",
+  "Deaths by Ukrainian drone strikes",
+  "Deaths by drone strikes",
+  "Deaths caused by industrial robots",
+  "Deaths caused by robots and artificial intelligence",
+  "Deep learning software",
+  "Deep learning software applications",
+  "DeepMind people",
+  "Deepfakes",
+  "Destination: Void universe",
+  "Dewey Decimal Classification",
+  "Digital card games",
+  "Digital geometry",
+  "Digital organisms",
+  "Dimension reduction",
+  "Directors of OpenAI",
+  "Distributed artificial intelligence",
+  "Documentary films about artificial intelligence",
+  "Domain-specific knowledge representation languages",
+  "Ensemble learning",
+  "Enthiran",
+  "Ethics of artificial intelligence",
+  "Evolution strategy",
+  "Evolutionary algorithms",
+  "Evolutionary algorithms and artificial neuronal networks",
+  "Evolutionary algorithms software",
+  "Evolutionary computation",
+  "Evolutionary computation conferences",
+  "Evolutionary computation journals",
+  "Existential risk from artificial intelligence",
+  "Expert systems",
+  "Extended reality",
+  "Extended reality-related lists",
+  "Facial expressions",
+  "Facial recognition",
+  "Facial recognition software",
+  "Feature detection (computer vision)",
+  "Fellows of the Association for the Advancement of Artificial Intelligence",
+  "Fellows of the European Association for Artificial Intelligence",
+  "Fellows of the SSAISB",
+  "Fiction about androids",
+  "Fiction about artificial intelligence",
+  "Fiction about artificial life",
+  "Fiction about augmented reality",
+  "Fiction about biorobotics",
+  "Fiction about cyborgs",
+  "Fiction about drones",
+  "Fiction about government by algorithm",
+  "Fiction about robots",
+  "Fiction about self-replicating machines",
+  "Fiction about virtual reality",
+  "Fictional artificial intelligences",
+  "Fictional characters invented for generative AI music",
+  "Fictional roboticists",
+  "Fictional robots",
+  "Fictional virtual assistants",
+  "Films about androids",
+  "Films about artificial intelligence",
+  "Films about robots",
+  "Films about technological impact",
+  "Films created using generative AI",
+  "Finite-state machines",
+  "Folksonomy",
+  "Free artificial intelligence applications",
+  "Functional groups",
+  "Fuzzy logic",
+  "Game artificial intelligence",
+  "Generative AI",
+  "Generative AI companies",
+  "Generative pre-trained transformers",
+  "Genetic algorithms",
+  "Genetic programming",
+  "Geometry in computer vision",
+  "Geometry processing",
+  "Go (game) software",
+  "Google DeepMind",
+  "Google Translate",
+  "Government AI organisations",
+  "Government by algorithm",
+  "Handwriting recognition",
+  "History of artificial intelligence",
+  "Home automation",
+  "Horizon (video game series)",
+  "Hugging Face people",
+  "Human versus computer matches",
+  "IPv6",
+  "Image compression",
+  "Image noise reduction techniques",
+  "Image processing",
+  "Image processing software",
+  "Image segmentation",
+  "Image sensor technology in computer vision",
+  "Inductive logic programming",
+  "Interactive evolutionary computation",
+  "Internet of things",
+  "Internet of things companies",
+  "IoT malware",
+  "JBIG",
+  "JPEG",
+  "Kernel methods for machine learning",
+  "Knight Rider",
+  "Knight Rider films",
+  "Knowledge bases",
+  "Knowledge compilation",
+  "Knowledge representation",
+  "Knowledge representation languages",
+  "Knowledge representation software",
+  "Large language models",
+  "Learning in computer vision",
+  "Lexical databases",
+  "Library of Congress Classification",
+  "Literature created using generative AI",
+  "Log-linear models",
+  "Logic programming researchers",
+  "Loss functions",
+  "Machine learning",
+  "Machine learning algorithms",
+  "Machine learning researchers",
+  "Machine learning stubs",
+  "Machine learning task",
+  "Machine to machine",
+  "Machine translation",
+  "Machine translation software",
+  "Machine vision",
+  "Marathon Trilogy",
+  "Markov models",
+  "Mathematical morphology",
+  "Mecha",
+  "Medical expert systems",
+  "Metaverse",
+  "Microformats",
+  "Military and wartime usage of artificial intelligence",
+  "Mind-mapping software",
+  "Minimum Information Standards",
+  "Mixed reality",
+  "Motion in computer vision",
+  "Multi-agent network management software",
+  "Multi-agent systems",
+  "Multi-robot systems",
+  "Music created using generative AI",
+  "Natural language generation",
+  "Natural language processing",
+  "Natural language processing researchers",
+  "Natural language processing software",
+  "Natural language processing stubs",
+  "Natural language processing toolkits",
+  "Network appliances",
+  "Neural circuitry",
+  "Neural network software",
+  "Neural networks",
+  "Neural processing units",
+  "Non-fiction books about artificial intelligence",
+  "Novels about artificial intelligence",
+  "Novels about robots",
+  "OCR typefaces",
+  "Object recognition and categorization",
+  "Ontology (information science)",
+  "Ontology editors",
+  "Ontology languages",
+  "Ontology learning (computer science)",
+  "Open-source artificial intelligence",
+  "OpenAI",
+  "OpenAI people",
+  "Optical character recognition",
+  "Optical character recognition software",
+  "Overwatch",
+  "Philosophy of artificial intelligence",
+  "Photogrammetry",
+  "Photogrammetry software",
+  "Problems in artificial intelligence",
+  "Psychoacoustics",
+  "Ra.One",
+  "Regulation of artificial intelligence",
+  "Reinforcement learning",
+  "Researchers of artificial life",
+  "Resource Description Framework",
+  "Rise of the Robots",
+  "RoboCop (franchise)",
+  "RoboCup",
+  "Robot comics",
+  "Robotics in China",
+  "Rule engines",
+  "Samsung wearable devices",
+  "Satisfiability problems",
+  "Scheduling (computing)",
+  "Scientific models",
+  "Scrabble lexica",
+  "Scrabble software",
+  "Selection (evolutionary algorithm)",
+  "Self-replication",
+  "Semantic HTML",
+  "Semantic Web",
+  "Semantic Web companies",
+  "Semantic Web people",
+  "Semantic desktop",
+  "Semantic wikis",
+  "Semisupervised learning",
+  "Sensor network",
+  "Severance (TV series)",
+  "Short Circuit (1986 film)",
+  "Signal processing conferences",
+  "Singularitarianism",
+  "Singularitarians",
+  "Small language models",
+  "Smart TV",
+  "Smart bands",
+  "Smart cities",
+  "Smart grid",
+  "Social network analysis software",
+  "Social robots",
+  "Spatial computing",
+  "Speaker recognition",
+  "Speech codecs",
+  "Speech processing",
+  "Speech processing researchers",
+  "Speech recognition",
+  "Speech synthesis",
+  "Star Wars",
+  "Statistical natural language processing",
+  "Structured prediction",
+  "Supervised learning",
+  "Support vector machines",
+  "Tasks of natural language processing",
+  "Television episodes about artificial intelligence",
+  "Television series about artificial intelligence",
+  "Television series about robots",
+  "Terminator (franchise)",
+  "Terminator (franchise) characters",
+  "Terminator (franchise) images",
+  "Terminator (franchise) lists",
+  "Terminator (franchise) mass media",
+  "Text-to-image generation",
+  "Text-to-video generation",
+  "Texture compression",
+  "The Matrix (franchise)",
+  "The Matrix (franchise) characters",
+  "The Matrix (franchise) films",
+  "The Matrix (franchise) mass media",
+  "Theorem proving software systems",
+  "Thesauri (information retrieval)",
+  "Three-body orbits",
+  "Tom Clancy's Net Force",
+  "Top Chess Engine Championship",
+  "Transformers (franchise)",
+  "Triplestores",
+  "Turing tests",
+  "Type inference",
+  "Types of groupings",
+  "Unification (computer science)",
+  "Unsupervised learning",
+  "Video acceleration",
+  "Video codecs",
+  "Video compression",
+  "Video games about artificial intelligence",
+  "Video games created using generative AI",
+  "Virtual assistants",
+  "Voice technology",
+  "Wearable computers",
+  "Wearable devices",
+  "Weird Science (film)",
+  "Works based on Terminator 2: Judgment Day",
+  "Works created using generative AI"
+ ],
+ "edges": [
+  [
+   "Artificial intelligence",
+   "Artificial intelligence by country"
+  ],
+  [
+   "Artificial intelligence",
+   "15.ai"
+  ],
+  [
+   "Artificial intelligence",
+   "Affective computing"
+  ],
+  [
+   "Artificial intelligence",
+   "AI risk"
+  ],
+  [
+   "Artificial intelligence",
+   "Ambient intelligence"
+  ],
+  [
+   "Artificial intelligence",
+   "Applications of artificial intelligence"
+  ],
+  [
+   "Artificial intelligence",
+   "Argument technology"
+  ],
+  [
+   "Artificial intelligence",
+   "Automated reasoning"
+  ],
+  [
+   "Artificial intelligence",
+   "Artificial intelligence competitions"
+  ],
+  [
+   "Artificial intelligence",
+   "Artificial intelligence conferences"
+  ],
+  [
+   "Artificial intelligence",
+   "Artificial intelligence controversies"
+  ],
+  [
+   "Artificial intelligence",
+   "Criticism of artificial intelligence"
+  ],
+  [
+   "Artificial intelligence",
+   "Deaths caused by robots and artificial intelligence"
+  ],
+  [
+   "Artificial intelligence",
+   "Distributed artificial intelligence"
+  ],
+  [
+   "Artificial intelligence",
+   "Artificial intelligence engineering"
+  ],
+  [
+   "Artificial intelligence",
+   "Evolutionary computation"
+  ],
+  [
+   "Artificial intelligence",
+   "Fiction about artificial intelligence"
+  ],
+  [
+   "Artificial intelligence",
+   "Fuzzy logic"
+  ],
+  [
+   "Artificial intelligence",
+   "Generative AI"
+  ],
+  [
+   "Artificial intelligence",
+   "History of artificial intelligence"
+  ],
+  [
+   "Artificial intelligence",
+   "Knowledge representation"
+  ],
+  [
+   "Artificial intelligence",
+   "Military and wartime usage of artificial intelligence"
+  ],
+  [
+   "Artificial intelligence",
+   "Neural processing units"
+  ],
+  [
+   "Artificial intelligence",
+   "Open-source artificial intelligence"
+  ],
+  [
+   "Artificial intelligence",
+   "Artificial intelligence organizations"
+  ],
+  [
+   "Artificial intelligence",
+   "Artificial intelligence people"
+  ],
+  [
+   "Artificial intelligence",
+   "Philosophy of artificial intelligence"
+  ],
+  [
+   "Artificial intelligence",
+   "Problems in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence",
+   "Artificial intelligence publications"
+  ],
+  [
+   "Artificial intelligence",
+   "Regulation of artificial intelligence"
+  ],
+  [
+   "Artificial intelligence",
+   "Rule engines"
+  ],
+  [
+   "Artificial intelligence",
+   "AI safety"
+  ],
+  [
+   "Artificial intelligence",
+   "AI software"
+  ],
+  [
+   "Artificial intelligence",
+   "AI supercomputers"
+  ],
+  [
+   "Artificial intelligence",
+   "Turing tests"
+  ],
+  [
+   "Artificial intelligence",
+   "Artificial intelligence stubs"
+  ],
+  [
+   "Artificial intelligence by country",
+   "Artificial intelligence industry in Canada"
+  ],
+  [
+   "Artificial intelligence by country",
+   "Artificial intelligence industry in China"
+  ],
+  [
+   "Artificial intelligence by country",
+   "Artificial intelligence industry in the United Kingdom"
+  ],
+  [
+   "Artificial intelligence by country",
+   "Artificial intelligence industry in the United States"
+  ],
+  [
+   "Affective computing",
+   "Social robots"
+  ],
+  [
+   "AI risk",
+   "Deepfakes"
+  ],
+  [
+   "AI risk",
+   "Existential risk from artificial intelligence"
+  ],
+  [
+   "AI risk",
+   "Military and wartime usage of artificial intelligence"
+  ],
+  [
+   "Ambient intelligence",
+   "Internet of things"
+  ],
+  [
+   "Ambient intelligence",
+   "Wearable devices"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Agent-based software"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Applications of evolutionary algorithms"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Applied data mining"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Applied machine learning"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Artificial immune systems"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Automated planning and scheduling"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Biometrics software"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Chatbots"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Cloud robotics"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Computer vision software"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Deepfakes"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Expert systems"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Extended reality"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Facial recognition"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Free artificial intelligence applications"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Game artificial intelligence"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Government by algorithm"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Handwriting recognition"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Image compression"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Large language models"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Natural language processing"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Natural language processing software"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Optical character recognition"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Small language models"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Spatial computing"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Video compression"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Virtual assistants"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Voice technology"
+  ],
+  [
+   "Applications of artificial intelligence",
+   "Works created using generative AI"
+  ],
+  [
+   "Automated reasoning",
+   "Automated theorem proving"
+  ],
+  [
+   "Automated reasoning",
+   "Knowledge representation"
+  ],
+  [
+   "Automated reasoning",
+   "Rule engines"
+  ],
+  [
+   "Automated reasoning",
+   "Type inference"
+  ],
+  [
+   "Artificial intelligence competitions",
+   "Computer chess competitions"
+  ],
+  [
+   "Artificial intelligence competitions",
+   "DARPA Grand Challenge"
+  ],
+  [
+   "Artificial intelligence competitions",
+   "RoboCup"
+  ],
+  [
+   "Artificial intelligence conferences",
+   "Signal processing conferences"
+  ],
+  [
+   "Artificial intelligence controversies",
+   "Critics of artificial intelligence"
+  ],
+  [
+   "Artificial intelligence controversies",
+   "Deepfakes"
+  ],
+  [
+   "Artificial intelligence controversies",
+   "Existential risk from artificial intelligence"
+  ],
+  [
+   "Criticism of artificial intelligence",
+   "Critics of artificial intelligence"
+  ],
+  [
+   "Deaths caused by robots and artificial intelligence",
+   "Deaths by drone strikes"
+  ],
+  [
+   "Deaths caused by robots and artificial intelligence",
+   "Deaths caused by industrial robots"
+  ],
+  [
+   "Artificial intelligence engineering",
+   "Cognitive architecture"
+  ],
+  [
+   "Artificial intelligence engineering",
+   "Computer vision"
+  ],
+  [
+   "Artificial intelligence engineering",
+   "Generative AI"
+  ],
+  [
+   "Artificial intelligence engineering",
+   "Machine learning"
+  ],
+  [
+   "Artificial intelligence engineering",
+   "Multi-agent systems"
+  ],
+  [
+   "Artificial intelligence engineering",
+   "Neural networks"
+  ],
+  [
+   "Artificial intelligence engineering",
+   "Turing tests"
+  ],
+  [
+   "Evolutionary computation",
+   "Artificial life"
+  ],
+  [
+   "Evolutionary computation",
+   "Evolutionary algorithms"
+  ],
+  [
+   "Evolutionary computation",
+   "Evolutionary computation conferences"
+  ],
+  [
+   "Evolutionary computation",
+   "Evolutionary computation journals"
+  ],
+  [
+   "Evolutionary computation",
+   "Interactive evolutionary computation"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "Fiction about government by algorithm"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "Fiction about robots"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "Fictional artificial intelligences"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "Comics about artificial intelligence"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "Films about artificial intelligence"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "Novels about artificial intelligence"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "Television series about artificial intelligence"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "Video games about artificial intelligence"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "Code Lyoko"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "Destination: Void universe"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "Knight Rider"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "The Matrix (franchise)"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "Tom Clancy's Net Force"
+  ],
+  [
+   "Fiction about artificial intelligence",
+   "Terminator (franchise)"
+  ],
+  [
+   "Generative AI",
+   "AI art"
+  ],
+  [
+   "Generative AI",
+   "Generative AI companies"
+  ],
+  [
+   "Generative AI",
+   "Deepfakes"
+  ],
+  [
+   "Generative AI",
+   "Artificial intelligence in film and video"
+  ],
+  [
+   "Generative AI",
+   "Large language models"
+  ],
+  [
+   "Generative AI",
+   "Artificial intelligence in music"
+  ],
+  [
+   "Generative AI",
+   "Small language models"
+  ],
+  [
+   "Generative AI",
+   "Works created using generative AI"
+  ],
+  [
+   "History of artificial intelligence",
+   "Artificial intelligence by decade"
+  ],
+  [
+   "History of artificial intelligence",
+   "Artificial intelligence by year"
+  ],
+  [
+   "History of artificial intelligence",
+   "Artificial intelligence competitions"
+  ],
+  [
+   "Knowledge representation",
+   "Argument mapping"
+  ],
+  [
+   "Knowledge representation",
+   "Belief revision"
+  ],
+  [
+   "Knowledge representation",
+   "Bodies of knowledge"
+  ],
+  [
+   "Knowledge representation",
+   "Dewey Decimal Classification"
+  ],
+  [
+   "Knowledge representation",
+   "Knowledge compilation"
+  ],
+  [
+   "Knowledge representation",
+   "Knowledge representation languages"
+  ],
+  [
+   "Knowledge representation",
+   "Lexical databases"
+  ],
+  [
+   "Knowledge representation",
+   "Library of Congress Classification"
+  ],
+  [
+   "Knowledge representation",
+   "Microformats"
+  ],
+  [
+   "Knowledge representation",
+   "Minimum Information Standards"
+  ],
+  [
+   "Knowledge representation",
+   "Multi-agent systems"
+  ],
+  [
+   "Knowledge representation",
+   "Ontology (information science)"
+  ],
+  [
+   "Knowledge representation",
+   "Scientific models"
+  ],
+  [
+   "Knowledge representation",
+   "Semantic desktop"
+  ],
+  [
+   "Knowledge representation",
+   "Semantic Web"
+  ],
+  [
+   "Knowledge representation",
+   "Knowledge representation software"
+  ],
+  [
+   "Knowledge representation",
+   "Thesauri (information retrieval)"
+  ],
+  [
+   "Knowledge representation",
+   "Types of groupings"
+  ],
+  [
+   "Open-source artificial intelligence",
+   "Free artificial intelligence applications"
+  ],
+  [
+   "Artificial intelligence organizations",
+   "Artificial intelligence associations"
+  ],
+  [
+   "Artificial intelligence organizations",
+   "Artificial intelligence companies"
+  ],
+  [
+   "Artificial intelligence organizations",
+   "Government AI organisations"
+  ],
+  [
+   "Artificial intelligence organizations",
+   "Artificial intelligence laboratories"
+  ],
+  [
+   "Artificial intelligence people",
+   "Artificial intelligence researchers"
+  ],
+  [
+   "Artificial intelligence people",
+   "Anthropic people"
+  ],
+  [
+   "Artificial intelligence people",
+   "DeepMind people"
+  ],
+  [
+   "Artificial intelligence people",
+   "Hugging Face people"
+  ],
+  [
+   "Artificial intelligence people",
+   "OpenAI people"
+  ],
+  [
+   "Philosophy of artificial intelligence",
+   "Ethics of artificial intelligence"
+  ],
+  [
+   "Philosophy of artificial intelligence",
+   "Existential risk from artificial intelligence"
+  ],
+  [
+   "Philosophy of artificial intelligence",
+   "Singularitarianism"
+  ],
+  [
+   "Artificial intelligence publications",
+   "Artificial intelligence journals"
+  ],
+  [
+   "Artificial intelligence publications",
+   "Non-fiction books about artificial intelligence"
+  ],
+  [
+   "Artificial intelligence publications",
+   "Artificial intelligence papers"
+  ],
+  [
+   "Rule engines",
+   "Expert systems"
+  ],
+  [
+   "AI safety",
+   "AI safety advocates"
+  ],
+  [
+   "AI safety",
+   "AI safety scientists"
+  ],
+  [
+   "AI software",
+   "Data mining and machine learning software"
+  ],
+  [
+   "Turing tests",
+   "Chatbots"
+  ],
+  [
+   "Artificial intelligence stubs",
+   "Machine learning stubs"
+  ],
+  [
+   "Artificial intelligence stubs",
+   "Natural language processing stubs"
+  ],
+  [
+   "Artificial intelligence stubs",
+   "Artificial intelligence stub templates"
+  ],
+  [
+   "Artificial intelligence industry in China",
+   "Robotics in China"
+  ],
+  [
+   "Internet of things",
+   "Automatic identification and data capture"
+  ],
+  [
+   "Internet of things",
+   "Blockchains"
+  ],
+  [
+   "Internet of things",
+   "Internet of things companies"
+  ],
+  [
+   "Internet of things",
+   "Home automation"
+  ],
+  [
+   "Internet of things",
+   "IoT malware"
+  ],
+  [
+   "Internet of things",
+   "IPv6"
+  ],
+  [
+   "Internet of things",
+   "Machine to machine"
+  ],
+  [
+   "Internet of things",
+   "Network appliances"
+  ],
+  [
+   "Internet of things",
+   "Sensor network"
+  ],
+  [
+   "Internet of things",
+   "Smart bands"
+  ],
+  [
+   "Internet of things",
+   "Smart cities"
+  ],
+  [
+   "Internet of things",
+   "Smart grid"
+  ],
+  [
+   "Internet of things",
+   "Smart TV"
+  ],
+  [
+   "Internet of things",
+   "Wearable devices"
+  ],
+  [
+   "Wearable devices",
+   "Samsung wearable devices"
+  ],
+  [
+   "Wearable devices",
+   "Smart bands"
+  ],
+  [
+   "Wearable devices",
+   "Wearable computers"
+  ],
+  [
+   "Agent-based software",
+   "Botnets"
+  ],
+  [
+   "Agent-based software",
+   "Multi-agent network management software"
+  ],
+  [
+   "Applied machine learning",
+   "AlphaGo"
+  ],
+  [
+   "Applied machine learning",
+   "Deep learning software applications"
+  ],
+  [
+   "Applied machine learning",
+   "Google DeepMind"
+  ],
+  [
+   "Automated planning and scheduling",
+   "Scheduling (computing)"
+  ],
+  [
+   "Biometrics software",
+   "Facial recognition software"
+  ],
+  [
+   "Chatbots",
+   "ChatGPT"
+  ],
+  [
+   "Computer vision software",
+   "Image processing software"
+  ],
+  [
+   "Computer vision software",
+   "Photogrammetry software"
+  ],
+  [
+   "Expert systems",
+   "Medical expert systems"
+  ],
+  [
+   "Extended reality",
+   "Extended reality-related lists"
+  ],
+  [
+   "Extended reality",
+   "Augmented reality"
+  ],
+  [
+   "Extended reality",
+   "Fiction about augmented reality"
+  ],
+  [
+   "Extended reality",
+   "Fiction about virtual reality"
+  ],
+  [
+   "Extended reality",
+   "Metaverse"
+  ],
+  [
+   "Extended reality",
+   "Mixed reality"
+  ],
+  [
+   "Facial recognition",
+   "Facial expressions"
+  ],
+  [
+   "Facial recognition",
+   "Facial recognition software"
+  ],
+  [
+   "Game artificial intelligence",
+   "Computer board games competitions"
+  ],
+  [
+   "Game artificial intelligence",
+   "Computer chess"
+  ],
+  [
+   "Game artificial intelligence",
+   "Computer Go"
+  ],
+  [
+   "Game artificial intelligence",
+   "Computer poker players"
+  ],
+  [
+   "Game artificial intelligence",
+   "Computer shogi"
+  ],
+  [
+   "Game artificial intelligence",
+   "Digital card games"
+  ],
+  [
+   "Game artificial intelligence",
+   "Computer draughts players"
+  ],
+  [
+   "Game artificial intelligence",
+   "Go (game) software"
+  ],
+  [
+   "Game artificial intelligence",
+   "Google DeepMind"
+  ],
+  [
+   "Game artificial intelligence",
+   "Human versus computer matches"
+  ],
+  [
+   "Game artificial intelligence",
+   "Scrabble software"
+  ],
+  [
+   "Image compression",
+   "JBIG"
+  ],
+  [
+   "Image compression",
+   "JPEG"
+  ],
+  [
+   "Image compression",
+   "Texture compression"
+  ],
+  [
+   "Large language models",
+   "Generative pre-trained transformers"
+  ],
+  [
+   "Natural language processing",
+   "Corpus linguistics"
+  ],
+  [
+   "Natural language processing",
+   "Finite-state machines"
+  ],
+  [
+   "Natural language processing",
+   "Machine translation"
+  ],
+  [
+   "Natural language processing",
+   "Natural language generation"
+  ],
+  [
+   "Natural language processing",
+   "Natural language processing software"
+  ],
+  [
+   "Natural language processing",
+   "Optical character recognition"
+  ],
+  [
+   "Natural language processing",
+   "Natural language processing researchers"
+  ],
+  [
+   "Natural language processing",
+   "Speech recognition"
+  ],
+  [
+   "Natural language processing",
+   "Statistical natural language processing"
+  ],
+  [
+   "Natural language processing",
+   "Tasks of natural language processing"
+  ],
+  [
+   "Natural language processing",
+   "Natural language processing stubs"
+  ],
+  [
+   "Natural language processing software",
+   "Chatbots"
+  ],
+  [
+   "Natural language processing software",
+   "Google Translate"
+  ],
+  [
+   "Natural language processing software",
+   "Machine translation software"
+  ],
+  [
+   "Natural language processing software",
+   "Natural language processing toolkits"
+  ],
+  [
+   "Natural language processing software",
+   "Virtual assistants"
+  ],
+  [
+   "Optical character recognition",
+   "Automatic number plate recognition"
+  ],
+  [
+   "Optical character recognition",
+   "OCR typefaces"
+  ],
+  [
+   "Optical character recognition",
+   "Optical character recognition software"
+  ],
+  [
+   "Video compression",
+   "Video codecs"
+  ],
+  [
+   "Video compression",
+   "Video acceleration"
+  ],
+  [
+   "Virtual assistants",
+   "Amazon Alexa"
+  ],
+  [
+   "Virtual assistants",
+   "ChatGPT"
+  ],
+  [
+   "Virtual assistants",
+   "Fictional virtual assistants"
+  ],
+  [
+   "Voice technology",
+   "Anti-stuttering devices"
+  ],
+  [
+   "Voice technology",
+   "Psychoacoustics"
+  ],
+  [
+   "Voice technology",
+   "Speaker recognition"
+  ],
+  [
+   "Voice technology",
+   "Speech codecs"
+  ],
+  [
+   "Voice technology",
+   "Speech processing"
+  ],
+  [
+   "Voice technology",
+   "Speech recognition"
+  ],
+  [
+   "Voice technology",
+   "Speech synthesis"
+  ],
+  [
+   "Works created using generative AI",
+   "Characters created using generative AI"
+  ],
+  [
+   "Works created using generative AI",
+   "Films created using generative AI"
+  ],
+  [
+   "Works created using generative AI",
+   "Literature created using generative AI"
+  ],
+  [
+   "Works created using generative AI",
+   "Music created using generative AI"
+  ],
+  [
+   "Works created using generative AI",
+   "Video games created using generative AI"
+  ],
+  [
+   "Automated theorem proving",
+   "Satisfiability problems"
+  ],
+  [
+   "Automated theorem proving",
+   "Theorem proving software systems"
+  ],
+  [
+   "Automated theorem proving",
+   "Unification (computer science)"
+  ],
+  [
+   "Type inference",
+   "Unification (computer science)"
+  ],
+  [
+   "Computer chess competitions",
+   "Top Chess Engine Championship"
+  ],
+  [
+   "Deaths by drone strikes",
+   "Deaths by American drone strikes"
+  ],
+  [
+   "Deaths by drone strikes",
+   "Deaths by Azerbaijani drone strikes"
+  ],
+  [
+   "Deaths by drone strikes",
+   "Deaths by French drone strikes"
+  ],
+  [
+   "Deaths by drone strikes",
+   "Deaths by Israeli drone strikes"
+  ],
+  [
+   "Deaths by drone strikes",
+   "Deaths by Malian drone strikes"
+  ],
+  [
+   "Deaths by drone strikes",
+   "Deaths by Russian drone strikes"
+  ],
+  [
+   "Deaths by drone strikes",
+   "Deaths by Saudi Arabian drone strikes"
+  ],
+  [
+   "Deaths by drone strikes",
+   "Deaths by Ukrainian drone strikes"
+  ],
+  [
+   "Computer vision",
+   "3D imaging"
+  ],
+  [
+   "Computer vision",
+   "Applications of computer vision"
+  ],
+  [
+   "Computer vision",
+   "Commercial computer vision systems"
+  ],
+  [
+   "Computer vision",
+   "Computer vision research infrastructure"
+  ],
+  [
+   "Computer vision",
+   "Datasets in computer vision"
+  ],
+  [
+   "Computer vision",
+   "Digital geometry"
+  ],
+  [
+   "Computer vision",
+   "Feature detection (computer vision)"
+  ],
+  [
+   "Computer vision",
+   "Geometry in computer vision"
+  ],
+  [
+   "Computer vision",
+   "Geometry processing"
+  ],
+  [
+   "Computer vision",
+   "Image noise reduction techniques"
+  ],
+  [
+   "Computer vision",
+   "Image processing"
+  ],
+  [
+   "Computer vision",
+   "Image segmentation"
+  ],
+  [
+   "Computer vision",
+   "Image sensor technology in computer vision"
+  ],
+  [
+   "Computer vision",
+   "Learning in computer vision"
+  ],
+  [
+   "Computer vision",
+   "Machine vision"
+  ],
+  [
+   "Computer vision",
+   "Mathematical morphology"
+  ],
+  [
+   "Computer vision",
+   "Motion in computer vision"
+  ],
+  [
+   "Computer vision",
+   "Object recognition and categorization"
+  ],
+  [
+   "Computer vision",
+   "Photogrammetry"
+  ],
+  [
+   "Computer vision",
+   "Computer vision researchers"
+  ],
+  [
+   "Computer vision",
+   "Computer vision software"
+  ],
+  [
+   "Machine learning",
+   "Applied machine learning"
+  ],
+  [
+   "Machine learning",
+   "Artificial neural networks"
+  ],
+  [
+   "Machine learning",
+   "Bayesian networks"
+  ],
+  [
+   "Machine learning",
+   "Blockmodeling"
+  ],
+  [
+   "Machine learning",
+   "Classification algorithms"
+  ],
+  [
+   "Machine learning",
+   "Cluster analysis"
+  ],
+  [
+   "Machine learning",
+   "Computational learning theory"
+  ],
+  [
+   "Machine learning",
+   "Artificial intelligence conferences"
+  ],
+  [
+   "Machine learning",
+   "Signal processing conferences"
+  ],
+  [
+   "Machine learning",
+   "Data mining and machine learning software"
+  ],
+  [
+   "Machine learning",
+   "Datasets in machine learning"
+  ],
+  [
+   "Machine learning",
+   "Dimension reduction"
+  ],
+  [
+   "Machine learning",
+   "Ensemble learning"
+  ],
+  [
+   "Machine learning",
+   "Evolutionary algorithms"
+  ],
+  [
+   "Machine learning",
+   "Genetic programming"
+  ],
+  [
+   "Machine learning",
+   "Inductive logic programming"
+  ],
+  [
+   "Machine learning",
+   "Kernel methods for machine learning"
+  ],
+  [
+   "Machine learning",
+   "Learning in computer vision"
+  ],
+  [
+   "Machine learning",
+   "Log-linear models"
+  ],
+  [
+   "Machine learning",
+   "Loss functions"
+  ],
+  [
+   "Machine learning",
+   "Machine learning algorithms"
+  ],
+  [
+   "Machine learning",
+   "Machine learning task"
+  ],
+  [
+   "Machine learning",
+   "Markov models"
+  ],
+  [
+   "Machine learning",
+   "Ontology learning (computer science)"
+  ],
+  [
+   "Machine learning",
+   "Reinforcement learning"
+  ],
+  [
+   "Machine learning",
+   "Machine learning researchers"
+  ],
+  [
+   "Machine learning",
+   "Natural language processing researchers"
+  ],
+  [
+   "Machine learning",
+   "Semisupervised learning"
+  ],
+  [
+   "Machine learning",
+   "Statistical natural language processing"
+  ],
+  [
+   "Machine learning",
+   "Structured prediction"
+  ],
+  [
+   "Machine learning",
+   "Supervised learning"
+  ],
+  [
+   "Machine learning",
+   "Support vector machines"
+  ],
+  [
+   "Machine learning",
+   "Unsupervised learning"
+  ],
+  [
+   "Machine learning",
+   "Machine learning stubs"
+  ],
+  [
+   "Multi-agent systems",
+   "Agent communications languages"
+  ],
+  [
+   "Multi-agent systems",
+   "Agent-based model"
+  ],
+  [
+   "Multi-agent systems",
+   "Agent-based programming languages"
+  ],
+  [
+   "Multi-agent systems",
+   "Agent-based software"
+  ],
+  [
+   "Multi-agent systems",
+   "Distributed artificial intelligence"
+  ],
+  [
+   "Multi-agent systems",
+   "Multi-robot systems"
+  ],
+  [
+   "Neural networks",
+   "Artificial neural networks"
+  ],
+  [
+   "Neural networks",
+   "Neural circuitry"
+  ],
+  [
+   "Artificial life",
+   "Artificial ecosystems"
+  ],
+  [
+   "Artificial life",
+   "Artificial pets"
+  ],
+  [
+   "Artificial life",
+   "Digital organisms"
+  ],
+  [
+   "Artificial life",
+   "Fiction about artificial life"
+  ],
+  [
+   "Artificial life",
+   "Artificial life models"
+  ],
+  [
+   "Artificial life",
+   "Researchers of artificial life"
+  ],
+  [
+   "Artificial life",
+   "Self-replication"
+  ],
+  [
+   "Artificial life",
+   "Artificial trees"
+  ],
+  [
+   "Evolutionary algorithms",
+   "Selection (evolutionary algorithm)"
+  ],
+  [
+   "Evolutionary algorithms",
+   "Applications of evolutionary algorithms"
+  ],
+  [
+   "Evolutionary algorithms",
+   "Evolution strategy"
+  ],
+  [
+   "Evolutionary algorithms",
+   "Evolutionary algorithms and artificial neuronal networks"
+  ],
+  [
+   "Evolutionary algorithms",
+   "Evolutionary algorithms software"
+  ],
+  [
+   "Evolutionary algorithms",
+   "Genetic algorithms"
+  ],
+  [
+   "Evolutionary algorithms",
+   "Genetic programming"
+  ],
+  [
+   "Fiction about robots",
+   "Fictional robots"
+  ],
+  [
+   "Fiction about robots",
+   "Fiction about androids"
+  ],
+  [
+   "Fiction about robots",
+   "Fiction about biorobotics"
+  ],
+  [
+   "Fiction about robots",
+   "Fiction about cyborgs"
+  ],
+  [
+   "Fiction about robots",
+   "Fiction about drones"
+  ],
+  [
+   "Fiction about robots",
+   "Mecha"
+  ],
+  [
+   "Fiction about robots",
+   "Fictional roboticists"
+  ],
+  [
+   "Fiction about robots",
+   "Fiction about self-replicating machines"
+  ],
+  [
+   "Fiction about robots",
+   "Star Wars"
+  ],
+  [
+   "Fiction about robots",
+   "Transformers (franchise)"
+  ],
+  [
+   "Fictional artificial intelligences",
+   "Artificial intelligence characters in video games"
+  ],
+  [
+   "Fictional artificial intelligences",
+   "Fictional virtual assistants"
+  ],
+  [
+   "Comics about artificial intelligence",
+   "Robot comics"
+  ],
+  [
+   "Films about artificial intelligence",
+   "Cyberpunk films"
+  ],
+  [
+   "Films about artificial intelligence",
+   "Documentary films about artificial intelligence"
+  ],
+  [
+   "Films about artificial intelligence",
+   "Enthiran"
+  ],
+  [
+   "Films about artificial intelligence",
+   "Films about androids"
+  ],
+  [
+   "Films about artificial intelligence",
+   "Knight Rider films"
+  ],
+  [
+   "Films about artificial intelligence",
+   "The Matrix (franchise) films"
+  ],
+  [
+   "Films about artificial intelligence",
+   "Ra.One"
+  ],
+  [
+   "Films about artificial intelligence",
+   "RoboCop (franchise)"
+  ],
+  [
+   "Films about artificial intelligence",
+   "Films about robots"
+  ],
+  [
+   "Films about artificial intelligence",
+   "Short Circuit (1986 film)"
+  ],
+  [
+   "Films about artificial intelligence",
+   "Films about technological impact"
+  ],
+  [
+   "Films about artificial intelligence",
+   "Weird Science (film)"
+  ],
+  [
+   "Novels about artificial intelligence",
+   "Novels about robots"
+  ],
+  [
+   "Television series about artificial intelligence",
+   "Television episodes about artificial intelligence"
+  ],
+  [
+   "Television series about artificial intelligence",
+   "Television series about robots"
+  ],
+  [
+   "Television series about artificial intelligence",
+   "Severance (TV series)"
+  ],
+  [
+   "Video games about artificial intelligence",
+   "AI: The Somnium Files"
+  ],
+  [
+   "Video games about artificial intelligence",
+   "Horizon (video game series)"
+  ],
+  [
+   "Video games about artificial intelligence",
+   "Marathon Trilogy"
+  ],
+  [
+   "Video games about artificial intelligence",
+   "Overwatch"
+  ],
+  [
+   "Video games about artificial intelligence",
+   "Rise of the Robots"
+  ],
+  [
+   "Code Lyoko",
+   "Code Lyoko episode redirects to lists"
+  ],
+  [
+   "Code Lyoko",
+   "Code Lyoko images"
+  ],
+  [
+   "The Matrix (franchise)",
+   "The Matrix (franchise) characters"
+  ],
+  [
+   "The Matrix (franchise)",
+   "The Matrix (franchise) mass media"
+  ],
+  [
+   "Terminator (franchise)",
+   "Terminator (franchise) characters"
+  ],
+  [
+   "Terminator (franchise)",
+   "Terminator (franchise) images"
+  ],
+  [
+   "Terminator (franchise)",
+   "Terminator (franchise) lists"
+  ],
+  [
+   "Terminator (franchise)",
+   "Terminator (franchise) mass media"
+  ],
+  [
+   "Terminator (franchise)",
+   "Works based on Terminator 2: Judgment Day"
+  ],
+  [
+   "AI art",
+   "Text-to-image generation"
+  ],
+  [
+   "Artificial intelligence in film and video",
+   "Text-to-video generation"
+  ],
+  [
+   "Artificial intelligence in music",
+   "Fictional characters invented for generative AI music"
+  ],
+  [
+   "Artificial intelligence by decade",
+   "1960s in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by decade",
+   "1980s in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by decade",
+   "1990s in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by decade",
+   "2000s in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by decade",
+   "2010s in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by decade",
+   "2020s in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "1987 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "1988 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "1989 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "1990 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "1991 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "1994 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "1997 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "1999 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2007 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2009 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2010 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2012 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2013 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2014 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2015 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2016 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2017 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2018 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2019 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2020 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2021 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2022 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2023 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2024 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2025 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2026 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2029 in artificial intelligence"
+  ],
+  [
+   "Artificial intelligence by year",
+   "2045 in artificial intelligence"
+  ],
+  [
+   "Belief revision",
+   "Cognitive inertia"
+  ],
+  [
+   "Knowledge representation languages",
+   "Domain-specific knowledge representation languages"
+  ],
+  [
+   "Knowledge representation languages",
+   "Ontology languages"
+  ],
+  [
+   "Knowledge representation languages",
+   "Resource Description Framework"
+  ],
+  [
+   "Lexical databases",
+   "Scrabble lexica"
+  ],
+  [
+   "Ontology (information science)",
+   "Ontology editors"
+  ],
+  [
+   "Ontology (information science)",
+   "Ontology languages"
+  ],
+  [
+   "Ontology (information science)",
+   "Ontology learning (computer science)"
+  ],
+  [
+   "Semantic Web",
+   "Semantic Web companies"
+  ],
+  [
+   "Semantic Web",
+   "Domain-specific knowledge representation languages"
+  ],
+  [
+   "Semantic Web",
+   "Folksonomy"
+  ],
+  [
+   "Semantic Web",
+   "Knowledge bases"
+  ],
+  [
+   "Semantic Web",
+   "Microformats"
+  ],
+  [
+   "Semantic Web",
+   "Semantic Web people"
+  ],
+  [
+   "Semantic Web",
+   "Resource Description Framework"
+  ],
+  [
+   "Semantic Web",
+   "Semantic HTML"
+  ],
+  [
+   "Semantic Web",
+   "Semantic wikis"
+  ],
+  [
+   "Semantic Web",
+   "Triplestores"
+  ],
+  [
+   "Knowledge representation software",
+   "Concept mapping software"
+  ],
+  [
+   "Knowledge representation software",
+   "Mind-mapping software"
+  ],
+  [
+   "Knowledge representation software",
+   "Ontology editors"
+  ],
+  [
+   "Knowledge representation software",
+   "Rule engines"
+  ],
+  [
+   "Types of groupings",
+   "Functional groups"
+  ],
+  [
+   "Types of groupings",
+   "Three-body orbits"
+  ],
+  [
+   "Artificial intelligence associations",
+   "Association for the Advancement of Artificial Intelligence"
+  ],
+  [
+   "Artificial intelligence companies",
+   "Anthropic"
+  ],
+  [
+   "Artificial intelligence companies",
+   "Generative AI companies"
+  ],
+  [
+   "Artificial intelligence companies",
+   "OpenAI"
+  ],
+  [
+   "Artificial intelligence laboratories",
+   "Anthropic"
+  ],
+  [
+   "Artificial intelligence laboratories",
+   "Google DeepMind"
+  ],
+  [
+   "Artificial intelligence researchers",
+   "Artificial intelligence researchers by nationality"
+  ],
+  [
+   "Artificial intelligence researchers",
+   "Artificial intelligence ethicists"
+  ],
+  [
+   "Artificial intelligence researchers",
+   "Fellows of the Association for the Advancement of Artificial Intelligence"
+  ],
+  [
+   "Artificial intelligence researchers",
+   "Fellows of the European Association for Artificial Intelligence"
+  ],
+  [
+   "Artificial intelligence researchers",
+   "Fellows of the SSAISB"
+  ],
+  [
+   "Artificial intelligence researchers",
+   "AI legal scholars"
+  ],
+  [
+   "Artificial intelligence researchers",
+   "Logic programming researchers"
+  ],
+  [
+   "Artificial intelligence researchers",
+   "Machine learning researchers"
+  ],
+  [
+   "Artificial intelligence researchers",
+   "Natural language processing researchers"
+  ],
+  [
+   "Artificial intelligence researchers",
+   "AI safety scientists"
+  ],
+  [
+   "Artificial intelligence researchers",
+   "Speech processing researchers"
+  ],
+  [
+   "OpenAI people",
+   "Directors of OpenAI"
+  ],
+  [
+   "Singularitarianism",
+   "Singularitarians"
+  ],
+  [
+   "Non-fiction books about artificial intelligence",
+   "Artificial intelligence textbooks"
+  ],
+  [
+   "Data mining and machine learning software",
+   "Deep learning software"
+  ],
+  [
+   "Data mining and machine learning software",
+   "Neural network software"
+  ],
+  [
+   "Data mining and machine learning software",
+   "Social network analysis software"
+  ],
+  [
+   "Natural language processing stubs",
+   "Corpus linguistics stubs"
+  ]
+ ]
+}

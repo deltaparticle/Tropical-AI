@@ -1,0 +1,21 @@
+# Secrets — never commit API keys
+.groq_api_key
+.openrouter_api_key
+rag/.groq_api_key
+evaluation/.openrouter_api_key
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+ragas_venv/
+venv/
+.venv/
+
+# Local tool/session config
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+# Isolated environment for RAGAS scoring (evaluation/ragas_score.py).
+# Kept separate from the main requirements.txt because ragas pulls in its
+# own torch/numpy-adjacent dependency pins that conflict with the main
+# embedding/training environment.
+ragas==0.1.21
+datasets==5.0.1
+langchain==0.2.17
+langchain-community==0.2.19
+langchain-openai==0.1.25
+sentence-transformers==6.1.0

@@ -1,0 +1,38 @@
+{
+ "euclidean": {
+  "mean_faithfulness": 0.9183673469387755,
+  "mean_answer_relevancy": 0.5138825077096253,
+  "mean_answer_correctness": 0.32803749378196534,
+  "mean_answer_similarity": 0.7563909846629886,
+  "valid_counts": {
+   "faithfulness": 14,
+   "answer_relevancy": 15,
+   "answer_correctness": 15,
+   "answer_similarity": 15
+  }
+ },
+ "poincare": {
+  "mean_faithfulness": 0.9408080808080808,
+  "mean_answer_relevancy": 0.35381228789272645,
+  "mean_answer_correctness": 0.2683019075647275,
+  "mean_answer_similarity": 0.7527681000608658,
+  "valid_counts": {
+   "faithfulness": 15,
+   "answer_relevancy": 15,
+   "answer_correctness": 15,
+   "answer_similarity": 15
+  }
+ },
+ "tropical": {
+  "mean_faithfulness": 0.862071697365815,
+  "mean_answer_relevancy": 0.6117187215746416,
+  "mean_answer_correctness": 0.36060127853695667,
+  "mean_answer_similarity": 0.7820881453297137,
+  "valid_counts": {
+   "faithfulness": 15,
+   "answer_relevancy": 15,
+   "answer_correctness": 15,
+   "answer_similarity": 15
+  }
+ }
+}
