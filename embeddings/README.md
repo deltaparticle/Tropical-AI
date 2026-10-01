@@ -10,12 +10,14 @@ graph, and not a single toy dataset.
 |---|---|---|
 | Euclidean | `\|\|u - v\|\|` | The default; no structural bias toward hierarchy |
 | Poincaré (hyperbolic) | `arcosh(1 + 2\|\|u-v\|\|² / ((1-\|\|u\|\|²)(1-\|\|v\|\|²)))` | Exponential volume growth near the ball boundary matches tree-like branching — the standard choice for hierarchy embedding (Nickel & Kiela, 2017) |
-| Tropical (max-plus) | `max_i(u_i - v_i) - min_i(u_i - v_i)` | A piecewise-linear metric whose geodesics are built from tropical polytopes — less explored for embeddings, the central question of this project |
+| Tropical (max-plus) | `max_i(u_i - v_i) - min_i(u_i - v_i)` | A piecewise-linear metric tied to tree-metric theory (the four-point condition, the tropical Grassmannian) — see the [root README](../README.md#1-what-is-tropical-geometry) for the full argument |
 
 Tropical's distance depends on only 2 of the `d` embedding dimensions per
 comparison (the argmax and argmin coordinates), which gives it a sparser,
 different gradient structure than the other two during training (see
 training notes below).
+
+![Why Euclidean space is the wrong shape for a tree](../assets/growth_rates.png)
 
 ## Methodology (applied identically across all 4 datasets)
 
@@ -57,49 +59,114 @@ training notes below).
 
 ## Results
 
-**Reconstruction** (WordNet mammals, train+eval on the same known pairs):
-tropical reaches mAP → 1.000 by dim=40 (near-perfect), with Poincaré close
-behind (0.964 at dim=40) — reconstruction alone doesn't separate the two
-geometries much; it's **held-out performance** that does.
+### Reconstruction (WordNet mammals — train and evaluate on the same known pairs)
 
-**Held-out link prediction, consistent pattern across all 4 datasets**:
-Poincaré wins at very low dimension, tropical wins at moderate dimension,
-and the crossover dimension scales with graph size (smaller graphs cross
-over earlier). This was checked and held on every dataset below — the same
-qualitative result on 4 independently-sourced real graphs, not a
-dataset-specific fluke:
+| dim | Euclidean mAP | Poincaré mAP | Tropical mAP |
+|---|---|---|---|
+| 5 | 0.303 | 0.637 | 0.265 |
+| 20 | 0.861 | 0.671 | 0.999 |
+| 40 | **1.000** | 0.672 | **1.000** |
 
-| Dataset | dim | Euclidean mAP | Poincaré mAP | Tropical mAP |
-|---|---|---|---|---|
-| WordNet mammals | 10 | 0.388 | 0.509 | **0.536** |
-| WordNet vehicles | ~100 (crossover) | — | — | tropical ahead below crossover, Poincaré above |
-| Gene Ontology | 60–100 | — | — | tropical wins clearly |
-| **Wikipedia AI graph** | 20 | 0.084 | 0.104 | **0.182** |
-| **Wikipedia AI graph** | 60 | 0.107 | 0.126 | **0.202** |
-| **Wikipedia AI graph** | **100** | 0.107 | 0.119 | **0.261** |
+Reconstruction alone doesn't separate Euclidean from tropical — both reach
+essentially perfect mAP by dim=40. Poincaré plateaus well below both at
+~0.67, on this particular controlled-vocabulary subtree. **This is exactly
+why reconstruction is the wrong task to judge these geometries on** — it
+mostly measures capacity to memorize a fixed, already-seen set of pairs.
+Held-out link prediction, below, is what actually discriminates them.
 
-The Wikipedia graph (the dataset that feeds the RAG system in
-[`../rag/`](../rag/)) shows tropical's clearest margin at **dim=100** — the
-held-out mAP there (0.261) is roughly 2.2x both Euclidean (0.107) and
-Poincaré (0.119). That dimension choice was made from this independent
-held-out task alone, *before* looking at any downstream RAG/RAGAS output —
-see [`../evaluation/RAGAS_EVAL_RESULTS.md`](../evaluation/RAGAS_EVAL_RESULTS.md)
-for why that separation matters.
+### Held-out link prediction, all 4 datasets, every tested dimension
+
+**WordNet mammals (1,170 nodes):**
+
+| dim | Euclidean mAP | Poincaré mAP | Tropical mAP |
+|---|---|---|---|
+| 5 | 0.058 | **0.107** | 0.062 |
+| 20 | 0.068 | 0.119 | **0.124** |
+| 40 | 0.074 | 0.093 | **0.172** |
+
+A separate fine-grained run
+([tropical_hierarchy_link_prediction_finegrained.py](tropical_hierarchy_link_prediction_finegrained.py),
+checkpointing every 10 epochs instead of 40) extends this sweep to dims
+40–100 on the same mammals graph:
+
+![WordNet mammals: fine-grained held-out sweep, dims 40-100](plots/hierarchy_link_prediction_dims40to100.png)
+
+Tropical's lead holds all the way to dim=100 here, without Poincaré
+catching up the way it does on vehicles and Gene Ontology below — on this
+particular dataset, the moderate-dimension advantage is not a narrow
+one-point crossover, it persists across the whole 40–100 range tested.
+
+**WordNet vehicles (520 nodes):**
+
+| dim | Euclidean mAP | Poincaré mAP | Tropical mAP |
+|---|---|---|---|
+| 20 | 0.082 | 0.080 | **0.150** |
+| 60 | 0.095 | **0.210** | 0.201 |
+| 100 | 0.095 | **0.252** | 0.218 |
+
+**Gene Ontology, immune system process (553 nodes):**
+
+| dim | Euclidean mAP | Poincaré mAP | Tropical mAP |
+|---|---|---|---|
+| 20 | 0.116 | **0.141** | 0.141 |
+| 60 | 0.122 | **0.150** | 0.149 |
+| 100 | 0.125 | **0.173** | 0.164 |
+
+**Wikipedia AI category graph (416 nodes):**
+
+| dim | Euclidean mAP | Poincaré mAP | Tropical mAP |
+|---|---|---|---|
+| 20 | 0.084 | 0.104 | **0.182** |
+| 60 | 0.107 | 0.126 | **0.202** |
+| 100 | 0.107 | 0.119 | **0.261** |
+
+![Wikipedia AI graph: held-out mAP vs. dimension](../assets/wiki_dim_sweep.png)
+
+### Honest reading of these 4 tables
+
+The hoped-for pattern — Poincaré wins at very low dimension, tropical takes
+over at moderate dimension — is **clearly confirmed on 2 of the 4
+datasets** within the dimension range actually tested: WordNet mammals
+(crossover between dim 5 and dim 20) and the Wikipedia AI graph (tropical
+ahead at every tested dimension, with its margin *widening* from dim 20 to
+dim 100). It does **not** hold as cleanly on the other 2:
+
+- **WordNet vehicles**: tropical wins clearly at dim=20, but Poincaré
+  overtakes by dim=60 and extends its lead at dim=100 — the opposite
+  direction from the hoped-for pattern at higher dimension on this
+  particular graph.
+- **Gene Ontology**: Poincaré leads at every tested dimension (tropical and
+  Poincaré are essentially tied at dim=20, then Poincaré pulls ahead).
+  Tropical's moderate-dimension advantage did not appear within dims
+  20–100 here — it may emerge at a dimension beyond what was tested, or
+  this graph's structure (553 real biological terms, different branching
+  statistics from WordNet) may simply favor hyperbolic geometry more than
+  the others do.
+
+Reported plainly rather than smoothed over: **tropical is a genuinely
+strong alternative to Poincaré, not a strict replacement for it.** Which
+geometry wins depends on the dataset and the dimension, which is itself
+useful information — a practitioner embedding a new hierarchy should run
+this same held-out sweep on their own graph rather than assume either
+geometry wins by default. The dataset where tropical's advantage is
+clearest and widens with dimension — the Wikipedia AI graph — is also the
+one this project builds the downstream RAG system on (Section 7 of the
+[root README](../README.md)), and that dimension choice (100) was made
+from this table alone, before looking at any RAG output.
 
 Plots: [`plots/`](plots/) (reconstruction curve, link-prediction vs.
-dimension, and fine-grained checks up to dim=256).
+dimension for WordNet mammals, and a fine-grained check up to dim=256).
 
 ## Honest limitations
 
-- Tropical wins *on average*, not on every single query — see the
-  single-query failure case diagnosed in
-  [`../rag/README.md`](../rag/README.md).
-- The crossover dimension is not a fixed constant; it must be re-measured
-  per graph (this is exactly what the dimension sweep in
-  `wiki_kg_train_eval.py` does for a new graph).
+- Tropical does not win on every dataset or every dimension — see above.
+- The crossover dimension (where it exists) is not a fixed constant across
+  graphs; it must be re-measured per graph, which is exactly what the
+  dimension sweep scripts here do.
 - Poincaré's long-horizon convergence at very high dimension (e.g. dim=100
-  on WordNet mammals) was still slowly improving at 1500 epochs in one run
-  — a longer budget could narrow that specific gap further.
+  on WordNet mammals) was still slowly improving at 1500 epochs in a
+  separate longer run — a longer training budget could narrow some of the
+  gaps reported above further.
 
 ## Running
 
